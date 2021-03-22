@@ -7,8 +7,6 @@ import random
 bintang = ("bintang 1","bintang 2","bintang 3","bintang 4","bintang 5")
 a = random.choice(bintang)
 print(a)
-"""
-#========
 import random
 for i in range(100):
     a = random.randrange(100) 
